@@ -8,7 +8,7 @@ function Header() {
           href="/"
           className="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none"
         >
-          <span className="fs-3">NCAA BB College List-</span>
+          <span className="fs-3">NCAA College List-</span>
           <br />
           <span className="fs-5">a list of all current NCAA colleges</span>
         </a>
